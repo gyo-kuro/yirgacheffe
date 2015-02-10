@@ -26,7 +26,7 @@ public class CircleCalcs {
 		double area = Math.PI * Math.pow(radius, 2);
 		
 		System.out.println("The circumference of the circle is: " + Rounder.roundTwo(circ) + " units");
-		System.out.println("The area of the circle is: " + Rounder.roundTwo(area) + " units");
+		System.out.println("The area of the circle is: " + Rounder.roundTwo(area) + " units squared");
 		
 	}
 
