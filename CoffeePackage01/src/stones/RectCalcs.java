@@ -27,7 +27,7 @@ public class RectCalcs {
 		double area = (length * width);
 		
 		System.out.println("The perimeter of the rectangle is: " + Rounder.roundTwo(perimeter) + " units");
-		System.out.println("The area of the rectangle is: " + Rounder.roundTwo(area) + " units");
+		System.out.println("The area of the rectangle is: " + Rounder.roundTwo(area) + " units squared");
 	}
 
 }
