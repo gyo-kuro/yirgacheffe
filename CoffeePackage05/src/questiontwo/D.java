@@ -1,7 +1,7 @@
 // Q2 - Stairway to Heaven
 //
 // Tanuj Kumar (github: gyo-kuro)
-// 03 Mar 15
+// 11 Mar 15
 // 
 // Takes an icon, an end, and a start, and outputs vertical ascending columns
 
