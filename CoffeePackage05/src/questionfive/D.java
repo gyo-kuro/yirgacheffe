@@ -1,7 +1,7 @@
 // Q5 - RabbitPop
 //
 // Tanuj Kumar (github: gyo-kuro)
-// 03 Mar 15
+// 11 Mar 15
 // 
 // Takes an initial population, doubling time, and day to check, and outputs the population
 // on the day checked.
