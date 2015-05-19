@@ -1,7 +1,7 @@
 // Q1 - SymbolRepeat
 //
 // Tanuj Kumar (github: gyo-kuro)
-// 03 Mar 15
+// 11 Mar 15
 // 
 // Takes a number and a symbol and outputs the symbol <number> times, and the number
 

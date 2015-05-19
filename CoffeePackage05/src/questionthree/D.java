@@ -1,7 +1,7 @@
 // Q3 - NumberRows
 //
 // Tanuj Kumar (github: gyo-kuro)
-// 03 Mar 15
+// 11 Mar 15
 // 
 // Queries multiple times: takes numbers and outputs their hundreds, tens, and ones.
 
